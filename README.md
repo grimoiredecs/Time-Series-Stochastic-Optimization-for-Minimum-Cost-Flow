@@ -6,4 +6,4 @@ From the most rudimentary understanding of various Minimum-Cost-Maximum-Flow alg
 
 Our primary targets are real life issues, stochastic-based situations, mostly depend on Time-Series progression. 
 
-The methodology of our work will be thoroughly analyzed in the background files, which includes mathematical models, a variety of algorithms, different intuition on advanced applied maths and theoretical statistics, as well as some combinatorial optimization. 
+The methodology of our work will be thoroughly analyzed in the background files, which includes mathematical models, a variety of algorithms, different intuition on advanced applied maths and theoretical statistics, Time-Series Analysis, Algorithm Design as well as some combinatorial optimization. 
